@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FESA\\3° Semestre\\Projeto Interdisciplinar\\Projeto_base_PBL\\Projeto_base_PBL-master\\Projeto_base_PBL\\Projeto_base_PBL.csproj",
+      "projectUniqueName": "D:\\FESA\\3° Semestre\\Projeto Interdisciplinar\\Projeto_PBL\\Projeto_base_PBL\\Projeto_base_PBL.csproj",
       "projectName": "Projeto_base_PBL",
-      "projectPath": "D:\\FESA\\3° Semestre\\Projeto Interdisciplinar\\Projeto_base_PBL\\Projeto_base_PBL-master\\Projeto_base_PBL\\Projeto_base_PBL.csproj",
+      "projectPath": "D:\\FESA\\3° Semestre\\Projeto Interdisciplinar\\Projeto_PBL\\Projeto_base_PBL\\Projeto_base_PBL.csproj",
       "packagesPath": "C:\\Users\\guind\\.nuget\\packages\\",
-      "outputPath": "D:\\FESA\\3° Semestre\\Projeto Interdisciplinar\\Projeto_base_PBL\\Projeto_base_PBL-master\\Projeto_base_PBL\\obj\\",
+      "outputPath": "D:\\FESA\\3° Semestre\\Projeto Interdisciplinar\\Projeto_PBL\\Projeto_base_PBL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
