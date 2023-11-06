@@ -20,6 +20,8 @@ namespace Projeto_base_PBL.Objetos
             Vox = velocidadeInicial * Math.Cos(AnguloDaTrajetoria);
             Voy = velocidadeInicial * Math.Sin(AnguloDaTrajetoria);
             AlturaMaximaProjetil = Math.Pow(Voy, 2) / (2 * Gravidade);
+            Gravidade = 9.8;
+            AlturaInicial = 0;
         }
     }
 }

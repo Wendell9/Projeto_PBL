@@ -8,13 +8,16 @@ namespace Projeto_base_PBL.Objetos
 {
     public class Objetos_Na_Atmosfera
     {
-        protected double Gravidade=10;
+        public double Gravidade { get; protected set; }
+        public double AlturaInicial { get; protected set; }
         public double Altura { get; protected set; }
-        protected double Voy;
+        public double Voy { get; protected set; }
 
-        public virtual void SetAltura(double tempo)
+        public virtual double SetAltura(double tempo)
         {
             Altura = Voy * tempo - (Gravidade / 2) * Math.Pow(tempo, 2);
+            return Altura;
         }
+
     }
 }
